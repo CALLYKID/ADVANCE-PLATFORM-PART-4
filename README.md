@@ -1,4 +1,9 @@
 ADVANCED PLATFORMER PART 4
+
+<img width="1135" height="857" alt="image" src="https://github.com/user-attachments/assets/9148b95c-26af-43e2-ad9f-cd1aea5e22e6" />
+
+ <img width="1141" height="851" alt="image" src="https://github.com/user-attachments/assets/7e8a23e6-7c58-4dc4-b0a4-364b3c23188c" />
+
  HOW TO PLAY 
  USE ARROW CONTROLS
 
@@ -8,6 +13,7 @@ GET ALL THE APPLES
 DONT LOSE YOUR LIVES
 FINISH THE LEVEL
 GET ALL KEYS TO UNLOCK DOORS
+TRY TO BEAT THE CREATOR CLONE TIME TO GET TO THE END OF THE LEVEL/COMPLETE THE LEVEL
 
 NOTES
 1500+ BLOCKS
