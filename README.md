@@ -28,4 +28,8 @@ ADDED OTHER VARIABLE TRACKERS
 PLAYER GHOST CREATOR TIME SIMULATOR ADDED
 ROTATING PLATFORMS CODED AND IMPLEMENTED
 
-PART 5 COMING NEXT WEEK
+CREDITS
+Griffpatch on the enemy youtube tutorials 
+Scratch for moat of the asseta and sounds 
+Ncs for the music
+me for all the hardwork!!
